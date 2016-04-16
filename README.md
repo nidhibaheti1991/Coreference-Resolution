@@ -1,1 +1,1 @@
-# Coreference-Resolution-For-Hindi-Literature-
+# Coreference-Resolution-For-Hindi-Literature
