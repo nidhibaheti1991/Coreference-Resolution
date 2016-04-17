@@ -1,31 +1,53 @@
 #coding=utf8
 import sys
 import string
-#filePath = sys.argv[1]
-#file = open(filePath,'r')
-#data = file.read()
-#lines = data.split('\n')
-#print lines
-#outputFile = open("output.txt","w+")
-#outputFile.write(file.read())
-#print file.read()
 
-def extractHead(inputString , char1, char2):
+
+def isHeadEqual(inputStr1,inputStr2):
 	try:
-		startIndex = inputString.index(char1) + 1
-		endIndex = inputString.index(char2) + 1
-		return inputString[startIndex:endIndex]
+		char1 = '('
+		char2 = ')'
+		startIndex = inputStr1.index(char1) + 1
+		endIndex = inputStr1.index(char2) 
+		head1 = inputStr1[startIndex:endIndex]
+		startIndex = inputStr2.index(char1) + 1
+		endIndex = inputStr2.index(char2) 
+		head2 = inputStr2[startIndex:endIndex]
+		return head1==head2
 	except ValueError:
-		return ""
+		return False
 
 
-string1 = '[<1,PN>एक धनी (सेठ)]'
-string2 = '[<1,PRN>(उसके) बंगले]'
-string3 = '[<1,PN>(सेठ)]'
 
-print extractHead(string1,'(',')')==extractHead(string2,'(',')')
 
-print extractHead(string1,'(',')') in string3
+def isSubstring(inputStr1,inputStr2):
+	try:
+		char1 = '('
+		char2 = ')'
+		startIndex = inputStr1.index(char1) + 1
+		endIndex = inputStr1.index(char2) 
+		head1 = inputStr1[startIndex:endIndex]
+		startIndex = inputStr2.index(char1) + 1
+		endIndex = inputStr2.index(char2) 
+		head2 = inputStr2[startIndex:endIndex]
+		return head1 in inputStr2 or head2 in inputStr1
+	except ValueError:
+		return False
+	
+
+# Test Cases
+#string1 = '[<1,PN>एक धनी (सेठ)]'
+#string2 = '[<1,PRN>(उसके) बंगले]'
+#string3 = '[<1,PN>(सेठ)]'
+
+
+#print isHeadEqual(string1,string2)
+#print isHeadEqual(string1,string3)
+#print isHeadEqual(string2,string3)
+#print isSubstring(string1,string2)
+#print isSubstring(string1,string3)
+#print isSubstring(string2,string3)
+
 
 
 
