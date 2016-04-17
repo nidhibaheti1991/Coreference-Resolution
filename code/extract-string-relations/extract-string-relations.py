@@ -30,7 +30,7 @@ def isSubstring(inputStr1,inputStr2):
 		startIndex = inputStr2.index(char1) + 1
 		endIndex = inputStr2.index(char2) 
 		head2 = inputStr2[startIndex:endIndex]
-		return head1 in inputStr2 or head2 in inputStr1
+		return head1 in head2 or head2 in head1
 	except ValueError:
 		return False
 	
