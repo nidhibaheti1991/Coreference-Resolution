@@ -30,7 +30,7 @@ for index,name in enumerate(glob.glob(path1+'/*.txt')):
     num_entities = max
     count_f=len(words.split(' '))
     count_w += count_f
-    output.write('file_word_count:'+ str(count_f)+'\n'+'mention_count:'+str(len(mentions))+'\n')
-    output.write('PN:'+str(pn_count)+' PRN:'+str(prn_count)+' CN:'+str(cn_count)+'\n')
+    output.write('file_word_count: '+ str(count_f)+'\n'+'mention_count: '+str(len(mentions))+'\n')
+    output.write('PN: '+str(pn_count)+' PRN: '+str(prn_count)+' CN: '+str(cn_count)+'\n')
 
-output.write('\n\nTotal no of articles:'+str(index+1)+'\navg doc length:'+str(count_w/index+1)+'words\ntotal word count:'+str(count_w))
+output.write('\n\nTotal no of articles: '+str(index+1)+'\navg doc length: '+str(count_w/index+1)+' words/doc\ntotal word count: '+str(count_w)+' words')
