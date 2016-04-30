@@ -1,430 +1,430 @@
 
 1.	annotated-corpus/file_1.txt
-file_word_count:546
-mention_count:64
-PN:26 PRN:31 CN:7
+file_word_count: 546
+mention_count: 64
+PN: 26 PRN: 31 CN: 7
 
 2.	annotated-corpus/file_10.txt
-file_word_count:796
-mention_count:130
-PN:8 PRN:59 CN:63
+file_word_count: 796
+mention_count: 130
+PN: 8 PRN: 59 CN: 63
 
 3.	annotated-corpus/file_11.txt
-file_word_count:438
-mention_count:49
-PN:7 PRN:29 CN:13
+file_word_count: 438
+mention_count: 49
+PN: 7 PRN: 29 CN: 13
 
 4.	annotated-corpus/file_12.txt
-file_word_count:770
-mention_count:76
-PN:24 PRN:42 CN:10
+file_word_count: 770
+mention_count: 76
+PN: 24 PRN: 42 CN: 10
 
 5.	annotated-corpus/file_13.txt
-file_word_count:116
-mention_count:7
-PN:2 PRN:1 CN:4
+file_word_count: 116
+mention_count: 7
+PN: 2 PRN: 1 CN: 4
 
 6.	annotated-corpus/file_14.txt
-file_word_count:91
-mention_count:10
-PN:0 PRN:6 CN:4
+file_word_count: 91
+mention_count: 10
+PN: 0 PRN: 6 CN: 4
 
 7.	annotated-corpus/file_15.txt
-file_word_count:392
-mention_count:52
-PN:0 PRN:25 CN:27
+file_word_count: 392
+mention_count: 52
+PN: 0 PRN: 25 CN: 27
 
 8.	annotated-corpus/file_16.txt
-file_word_count:324
-mention_count:46
-PN:0 PRN:24 CN:22
+file_word_count: 324
+mention_count: 46
+PN: 0 PRN: 24 CN: 22
 
 9.	annotated-corpus/file_17.txt
-file_word_count:266
-mention_count:69
-PN:0 PRN:22 CN:47
+file_word_count: 266
+mention_count: 69
+PN: 0 PRN: 22 CN: 47
 
 10.	annotated-corpus/file_18.txt
-file_word_count:233
-mention_count:26
-PN:0 PRN:6 CN:20
+file_word_count: 233
+mention_count: 26
+PN: 0 PRN: 6 CN: 20
 
 11.	annotated-corpus/file_19.txt
-file_word_count:459
-mention_count:77
-PN:25 PRN:34 CN:18
+file_word_count: 459
+mention_count: 77
+PN: 25 PRN: 34 CN: 18
 
 12.	annotated-corpus/file_2.txt
-file_word_count:487
-mention_count:78
-PN:21 PRN:20 CN:37
+file_word_count: 487
+mention_count: 78
+PN: 21 PRN: 20 CN: 37
 
 13.	annotated-corpus/file_20.txt
-file_word_count:403
-mention_count:45
-PN:0 PRN:26 CN:19
+file_word_count: 403
+mention_count: 45
+PN: 0 PRN: 26 CN: 19
 
 14.	annotated-corpus/file_21.txt
-file_word_count:325
-mention_count:69
-PN:15 PRN:39 CN:15
+file_word_count: 325
+mention_count: 69
+PN: 15 PRN: 39 CN: 15
 
 15.	annotated-corpus/file_22.txt
-file_word_count:275
-mention_count:34
-PN:0 PRN:15 CN:19
+file_word_count: 275
+mention_count: 34
+PN: 0 PRN: 15 CN: 19
 
 16.	annotated-corpus/file_23.txt
-file_word_count:308
-mention_count:26
-PN:0 PRN:19 CN:7
+file_word_count: 308
+mention_count: 26
+PN: 0 PRN: 19 CN: 7
 
 17.	annotated-corpus/file_24.txt
-file_word_count:425
-mention_count:57
-PN:0 PRN:36 CN:21
+file_word_count: 425
+mention_count: 57
+PN: 0 PRN: 36 CN: 21
 
 18.	annotated-corpus/file_25.txt
-file_word_count:203
-mention_count:32
-PN:0 PRN:18 CN:14
+file_word_count: 203
+mention_count: 32
+PN: 0 PRN: 18 CN: 14
 
 19.	annotated-corpus/file_26.txt
-file_word_count:737
-mention_count:97
-PN:0 PRN:19 CN:78
+file_word_count: 737
+mention_count: 97
+PN: 0 PRN: 19 CN: 78
 
 20.	annotated-corpus/file_27.txt
-file_word_count:947
-mention_count:104
-PN:57 PRN:29 CN:18
+file_word_count: 947
+mention_count: 104
+PN: 57 PRN: 29 CN: 18
 
 21.	annotated-corpus/file_28.txt
-file_word_count:257
-mention_count:14
-PN:0 PRN:5 CN:9
+file_word_count: 257
+mention_count: 14
+PN: 0 PRN: 5 CN: 9
 
 22.	annotated-corpus/file_29.txt
-file_word_count:511
-mention_count:67
-PN:7 PRN:37 CN:23
+file_word_count: 511
+mention_count: 67
+PN: 7 PRN: 37 CN: 23
 
 23.	annotated-corpus/file_3.txt
-file_word_count:498
-mention_count:93
-PN:10 PRN:45 CN:38
+file_word_count: 498
+mention_count: 93
+PN: 10 PRN: 45 CN: 38
 
 24.	annotated-corpus/file_30.txt
-file_word_count:261
-mention_count:33
-PN:0 PRN:13 CN:20
+file_word_count: 261
+mention_count: 33
+PN: 0 PRN: 13 CN: 20
 
 25.	annotated-corpus/file_31.txt
-file_word_count:273
-mention_count:48
-PN:22 PRN:13 CN:13
+file_word_count: 273
+mention_count: 48
+PN: 22 PRN: 13 CN: 13
 
 26.	annotated-corpus/file_32.txt
-file_word_count:176
-mention_count:27
-PN:9 PRN:16 CN:2
+file_word_count: 176
+mention_count: 27
+PN: 9 PRN: 16 CN: 2
 
 27.	annotated-corpus/file_33.txt
-file_word_count:282
-mention_count:30
-PN:4 PRN:13 CN:13
+file_word_count: 282
+mention_count: 30
+PN: 4 PRN: 13 CN: 13
 
 28.	annotated-corpus/file_34.txt
-file_word_count:124
-mention_count:10
-PN:4 PRN:2 CN:4
+file_word_count: 124
+mention_count: 10
+PN: 4 PRN: 2 CN: 4
 
 29.	annotated-corpus/file_35.txt
-file_word_count:283
-mention_count:33
-PN:0 PRN:3 CN:30
+file_word_count: 283
+mention_count: 33
+PN: 0 PRN: 3 CN: 30
 
 30.	annotated-corpus/file_36.txt
-file_word_count:544
-mention_count:64
-PN:0 PRN:29 CN:35
+file_word_count: 544
+mention_count: 64
+PN: 0 PRN: 29 CN: 35
 
 31.	annotated-corpus/file_37.txt
-file_word_count:109
-mention_count:13
-PN:0 PRN:4 CN:9
+file_word_count: 109
+mention_count: 13
+PN: 0 PRN: 4 CN: 9
 
 32.	annotated-corpus/file_38.txt
-file_word_count:398
-mention_count:48
-PN:2 PRN:24 CN:22
+file_word_count: 398
+mention_count: 48
+PN: 2 PRN: 24 CN: 22
 
 33.	annotated-corpus/file_39.txt
-file_word_count:216
-mention_count:44
-PN:12 PRN:13 CN:19
+file_word_count: 216
+mention_count: 44
+PN: 12 PRN: 13 CN: 19
 
 34.	annotated-corpus/file_4.txt
-file_word_count:613
-mention_count:114
-PN:13 PRN:43 CN:58
+file_word_count: 613
+mention_count: 114
+PN: 13 PRN: 43 CN: 58
 
 35.	annotated-corpus/file_40.txt
-file_word_count:390
-mention_count:44
-PN:1 PRN:23 CN:20
+file_word_count: 390
+mention_count: 44
+PN: 1 PRN: 23 CN: 20
 
 36.	annotated-corpus/file_41.txt
-file_word_count:49
-mention_count:10
-PN:0 PRN:6 CN:4
+file_word_count: 49
+mention_count: 10
+PN: 0 PRN: 6 CN: 4
 
 37.	annotated-corpus/file_42.txt
-file_word_count:46
-mention_count:4
-PN:0 PRN:1 CN:3
+file_word_count: 46
+mention_count: 4
+PN: 0 PRN: 1 CN: 3
 
 38.	annotated-corpus/file_43.txt
-file_word_count:115
-mention_count:18
-PN:2 PRN:15 CN:1
+file_word_count: 115
+mention_count: 18
+PN: 2 PRN: 15 CN: 1
 
 39.	annotated-corpus/file_44.txt
-file_word_count:40
-mention_count:7
-PN:2 PRN:4 CN:1
+file_word_count: 40
+mention_count: 7
+PN: 2 PRN: 4 CN: 1
 
 40.	annotated-corpus/file_45.txt
-file_word_count:156
-mention_count:22
-PN:6 PRN:11 CN:5
+file_word_count: 156
+mention_count: 22
+PN: 6 PRN: 11 CN: 5
 
 41.	annotated-corpus/file_46.txt
-file_word_count:346
-mention_count:47
-PN:10 PRN:23 CN:14
+file_word_count: 346
+mention_count: 47
+PN: 10 PRN: 23 CN: 14
 
 42.	annotated-corpus/file_47.txt
-file_word_count:60
-mention_count:12
-PN:0 PRN:5 CN:7
+file_word_count: 60
+mention_count: 12
+PN: 0 PRN: 5 CN: 7
 
 43.	annotated-corpus/file_48.txt
-file_word_count:102
-mention_count:9
-PN:1 PRN:6 CN:2
+file_word_count: 102
+mention_count: 9
+PN: 1 PRN: 6 CN: 2
 
 44.	annotated-corpus/file_49.txt
-file_word_count:255
-mention_count:34
-PN:4 PRN:19 CN:11
+file_word_count: 255
+mention_count: 34
+PN: 4 PRN: 19 CN: 11
 
 45.	annotated-corpus/file_5.txt
-file_word_count:393
-mention_count:84
-PN:0 PRN:51 CN:33
+file_word_count: 393
+mention_count: 84
+PN: 0 PRN: 51 CN: 33
 
 46.	annotated-corpus/file_50.txt
-file_word_count:223
-mention_count:37
-PN:5 PRN:20 CN:12
+file_word_count: 223
+mention_count: 37
+PN: 5 PRN: 20 CN: 12
 
 47.	annotated-corpus/file_51.txt
-file_word_count:63
-mention_count:11
-PN:1 PRN:6 CN:4
+file_word_count: 63
+mention_count: 11
+PN: 1 PRN: 6 CN: 4
 
 48.	annotated-corpus/file_52.txt
-file_word_count:34
-mention_count:1
-PN:0 PRN:1 CN:0
+file_word_count: 34
+mention_count: 1
+PN: 0 PRN: 1 CN: 0
 
 49.	annotated-corpus/file_53.txt
-file_word_count:60
-mention_count:4
-PN:0 PRN:1 CN:3
+file_word_count: 60
+mention_count: 4
+PN: 0 PRN: 1 CN: 3
 
 50.	annotated-corpus/file_54.txt
-file_word_count:189
-mention_count:27
-PN:0 PRN:22 CN:5
+file_word_count: 189
+mention_count: 27
+PN: 0 PRN: 22 CN: 5
 
 51.	annotated-corpus/file_55.txt
-file_word_count:53
-mention_count:6
-PN:0 PRN:3 CN:3
+file_word_count: 53
+mention_count: 6
+PN: 0 PRN: 3 CN: 3
 
 52.	annotated-corpus/file_56.txt
-file_word_count:31
-mention_count:3
-PN:2 PRN:1 CN:0
+file_word_count: 31
+mention_count: 3
+PN: 2 PRN: 1 CN: 0
 
 53.	annotated-corpus/file_57.txt
-file_word_count:110
-mention_count:19
-PN:5 PRN:10 CN:4
+file_word_count: 110
+mention_count: 19
+PN: 5 PRN: 10 CN: 4
 
 54.	annotated-corpus/file_58.txt
-file_word_count:237
-mention_count:34
-PN:12 PRN:10 CN:12
+file_word_count: 237
+mention_count: 34
+PN: 12 PRN: 10 CN: 12
 
 55.	annotated-corpus/file_59.txt
-file_word_count:194
-mention_count:23
-PN:5 PRN:12 CN:6
+file_word_count: 194
+mention_count: 23
+PN: 5 PRN: 12 CN: 6
 
 56.	annotated-corpus/file_6.txt
-file_word_count:229
-mention_count:28
-PN:0 PRN:11 CN:17
+file_word_count: 229
+mention_count: 28
+PN: 0 PRN: 11 CN: 17
 
 57.	annotated-corpus/file_60.txt
-file_word_count:122
-mention_count:25
-PN:3 PRN:15 CN:7
+file_word_count: 122
+mention_count: 25
+PN: 3 PRN: 15 CN: 7
 
 58.	annotated-corpus/file_61.txt
-file_word_count:141
-mention_count:22
-PN:0 PRN:10 CN:12
+file_word_count: 141
+mention_count: 22
+PN: 0 PRN: 10 CN: 12
 
 59.	annotated-corpus/file_62.txt
-file_word_count:165
-mention_count:17
-PN:0 PRN:9 CN:8
+file_word_count: 165
+mention_count: 17
+PN: 0 PRN: 9 CN: 8
 
 60.	annotated-corpus/file_63.txt
-file_word_count:547
-mention_count:102
-PN:10 PRN:72 CN:20
+file_word_count: 547
+mention_count: 102
+PN: 10 PRN: 72 CN: 20
 
 61.	annotated-corpus/file_64.txt
-file_word_count:179
-mention_count:15
-PN:7 PRN:8 CN:0
+file_word_count: 179
+mention_count: 15
+PN: 7 PRN: 8 CN: 0
 
 62.	annotated-corpus/file_65.txt
-file_word_count:270
-mention_count:42
-PN:9 PRN:20 CN:13
+file_word_count: 270
+mention_count: 42
+PN: 9 PRN: 20 CN: 13
 
 63.	annotated-corpus/file_66.txt
-file_word_count:333
-mention_count:63
-PN:0 PRN:20 CN:43
+file_word_count: 333
+mention_count: 63
+PN: 0 PRN: 20 CN: 43
 
 64.	annotated-corpus/file_67.txt
-file_word_count:204
-mention_count:26
-PN:0 PRN:17 CN:9
+file_word_count: 204
+mention_count: 26
+PN: 0 PRN: 17 CN: 9
 
 65.	annotated-corpus/file_68.txt
-file_word_count:289
-mention_count:55
-PN:4 PRN:29 CN:22
+file_word_count: 289
+mention_count: 55
+PN: 4 PRN: 29 CN: 22
 
 66.	annotated-corpus/file_69.txt
-file_word_count:196
-mention_count:28
-PN:0 PRN:11 CN:17
+file_word_count: 196
+mention_count: 28
+PN: 0 PRN: 11 CN: 17
 
 67.	annotated-corpus/file_7.txt
-file_word_count:450
-mention_count:49
-PN:0 PRN:34 CN:15
+file_word_count: 450
+mention_count: 49
+PN: 0 PRN: 34 CN: 15
 
 68.	annotated-corpus/file_70.txt
-file_word_count:57
-mention_count:11
-PN:6 PRN:5 CN:0
+file_word_count: 57
+mention_count: 11
+PN: 6 PRN: 5 CN: 0
 
 69.	annotated-corpus/file_71.txt
-file_word_count:200
-mention_count:33
-PN:16 PRN:9 CN:8
+file_word_count: 200
+mention_count: 33
+PN: 16 PRN: 9 CN: 8
 
 70.	annotated-corpus/file_72.txt
-file_word_count:151
-mention_count:22
-PN:9 PRN:12 CN:1
+file_word_count: 151
+mention_count: 22
+PN: 9 PRN: 12 CN: 1
 
 71.	annotated-corpus/file_73.txt
-file_word_count:158
-mention_count:29
-PN:9 PRN:8 CN:12
+file_word_count: 158
+mention_count: 29
+PN: 9 PRN: 8 CN: 12
 
 72.	annotated-corpus/file_74.txt
-file_word_count:127
-mention_count:20
-PN:9 PRN:6 CN:5
+file_word_count: 127
+mention_count: 20
+PN: 9 PRN: 6 CN: 5
 
 73.	annotated-corpus/file_75.txt
-file_word_count:132
-mention_count:23
-PN:14 PRN:9 CN:0
+file_word_count: 132
+mention_count: 23
+PN: 14 PRN: 9 CN: 0
 
 74.	annotated-corpus/file_76.txt
-file_word_count:96
-mention_count:16
-PN:12 PRN:4 CN:0
+file_word_count: 96
+mention_count: 16
+PN: 12 PRN: 4 CN: 0
 
 75.	annotated-corpus/file_77.txt
-file_word_count:89
-mention_count:24
-PN:14 PRN:1 CN:9
+file_word_count: 89
+mention_count: 24
+PN: 14 PRN: 1 CN: 9
 
 76.	annotated-corpus/file_78.txt
-file_word_count:169
-mention_count:26
-PN:14 PRN:5 CN:7
+file_word_count: 169
+mention_count: 26
+PN: 14 PRN: 5 CN: 7
 
 77.	annotated-corpus/file_79.txt
-file_word_count:71
-mention_count:14
-PN:6 PRN:2 CN:6
+file_word_count: 71
+mention_count: 14
+PN: 6 PRN: 2 CN: 6
 
 78.	annotated-corpus/file_8.txt
-file_word_count:137
-mention_count:23
-PN:7 PRN:12 CN:4
+file_word_count: 137
+mention_count: 23
+PN: 7 PRN: 12 CN: 4
 
 79.	annotated-corpus/file_80.txt
-file_word_count:141
-mention_count:16
-PN:3 PRN:6 CN:7
+file_word_count: 141
+mention_count: 16
+PN: 3 PRN: 6 CN: 7
 
 80.	annotated-corpus/file_81.txt
-file_word_count:162
-mention_count:10
-PN:0 PRN:4 CN:6
+file_word_count: 162
+mention_count: 10
+PN: 0 PRN: 4 CN: 6
 
 81.	annotated-corpus/file_82.txt
-file_word_count:104
-mention_count:15
-PN:8 PRN:4 CN:3
+file_word_count: 104
+mention_count: 15
+PN: 8 PRN: 4 CN: 3
 
 82.	annotated-corpus/file_83.txt
-file_word_count:78
-mention_count:9
-PN:4 PRN:0 CN:5
+file_word_count: 78
+mention_count: 9
+PN: 4 PRN: 0 CN: 5
 
 83.	annotated-corpus/file_84.txt
-file_word_count:59
-mention_count:8
-PN:0 PRN:4 CN:4
+file_word_count: 59
+mention_count: 8
+PN: 0 PRN: 4 CN: 4
 
 84.	annotated-corpus/file_85.txt
-file_word_count:135
-mention_count:19
-PN:7 PRN:9 CN:3
+file_word_count: 135
+mention_count: 19
+PN: 7 PRN: 9 CN: 3
 
 85.	annotated-corpus/file_9.txt
-file_word_count:192
-mention_count:28
-PN:17 PRN:7 CN:4
+file_word_count: 192
+mention_count: 28
+PN: 17 PRN: 7 CN: 4
 
 
-Total no of articles:85
-avg doc length:258words
-total word count:21615
+Total no of articles: 85
+avg doc length: 258 words/doc
+total word count: 21615 words
