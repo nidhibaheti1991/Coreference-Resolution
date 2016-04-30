@@ -4,6 +4,7 @@ Steps to run the Averaged Perceptron Learning Algorithm:
 location of code: 'code/perceptron/'
 
 Run the codes in the following order:
+
 1. processFolder.py  
 I/P: Training Data  O/P: positive and negative pairs 
 
